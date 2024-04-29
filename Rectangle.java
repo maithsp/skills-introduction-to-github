@@ -22,7 +22,7 @@ public class Rectangle {
    public Rectangle(double wid, double ht){
        width=wid;
        height=ht;
-       sidecolor=sidecolor+" "+" one ";
+       sidecolor=sidecolor+" "+" two colors";
    
    }
    public double getArea(){
